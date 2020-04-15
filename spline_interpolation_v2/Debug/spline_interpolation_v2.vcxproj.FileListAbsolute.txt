@@ -1,0 +1,3 @@
+D:\App\GitRepo\Новая папка\Egam1\spline_interpolation_v2\spline_interpolation_v2\Debug\spline_interpolation_v2.Form1.resources
+D:\App\GitRepo\Новая папка\Egam1\spline_interpolation_v2\spline_interpolation_v2\Debug\spline_interpolation_v2.vcxproj.GenerateResource.cache
+D:\App\GitRepo\Новая папка\Egam1\spline_interpolation_v2\spline_interpolation_v2\Debug\spline_interpolation_v2.vcxprojAssemblyReference.cache

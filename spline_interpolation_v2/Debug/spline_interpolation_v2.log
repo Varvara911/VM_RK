@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Runge-Kutta.vcxproj, spline_interpolation_v2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  RK_VM.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  RK_VM.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  RK_VM.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  spline_interpolation_v2.vcxproj -> C:\Users\varva\Desktop\spline_interpolation_v2\Debug\VM_Laba.exe
